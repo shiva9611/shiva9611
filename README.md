@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Shivaraj 
-- 👀 I’m interested in Data Science and Python 
-- 🌱 I’m currently learning Machine Leraning 
--
--
+### Hi there 👋  
 
-<!---
-shiva9611/shiva9611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My name is Shivaraj Shetty
+
+🕵🏻 I am looking forward to build my career as a Data Scientist
+
+✉️ Gmail : shivarajshetty9999@gmail.com
