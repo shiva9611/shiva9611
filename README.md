@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Shivaraj Shetty
-![](https://github.com/shiva9611/shiva9611/blob/main/download-datascience-banner.jpg)
+
 
 I am Data Science enthusiastic who loves to explore the data and building machine learning models
 
