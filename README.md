@@ -3,7 +3,7 @@
 
 I am Data Science enthusiastic who loves to explore the data and building machine learning models
 
-Skills: Python/ Machine Learning/ Django / Flask/ Statistics/ MySQL/ MongoDB
+Skills: Python/ Machine Learning/ Django / Flask/ Statistics/ MySQL/ MongoDB/Webscraping 
 
 - 🌱 I’m currently learning Data Science 
 
