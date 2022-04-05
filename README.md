@@ -12,7 +12,6 @@ Skills: Python/ Machine Learning/ Django / Flask/ Statistics/ MySQL/ MongoDB/Web
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva9611)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva9611&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shiva9611)  
 
